@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="100%" src="https://github.com/eznxxy/assets/blob/main/img/header.jpg">
 </p>
 
 <h1 align="center">Hello 👋, I'm Arif Dwi Laksana</h1>
