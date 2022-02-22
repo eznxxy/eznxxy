@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Arif Dwi Laksana</h1>
-<h3 align="center">Back-end Engineer & QA Engineer🌟.</h3>
+<h3 align="center">Back-end Engineer🔨 & QA Engineer🐛.</h3>
 
 <br>
 
