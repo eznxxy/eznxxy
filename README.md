@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100%" height="250px" src="https://github.com/eznxxy/assets/blob/main/img/header2.jpg">
+    <img width="100%" height="250px" src="https://github.com/eznxxy/assets/blob/main/img/header3.jpg">
 </p>
 
 <h1 align="center">Hello 👋, I'm Arif Dwi Laksana</h1>
